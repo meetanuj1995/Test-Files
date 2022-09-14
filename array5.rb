@@ -1,4 +1,4 @@
-numbers = [2,6,7,3,2,7,4]
+numbers = [2,6,7,3,2,7,4,8,7]
 seen = []
 numbers.each do|i|
     if seen.include?(i)
